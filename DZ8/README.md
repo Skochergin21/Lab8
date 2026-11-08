@@ -72,6 +72,3 @@ double summa_sin(double nachalo, double konec, double shag)
 ## 4. Информация о разработчике
  
 Кочергин Савелий, группа бИД-261
-
-
-Кочергин Савелий, группа бИД-261
